@@ -1,0 +1,14 @@
+C:\Users\HUAWEI\source\repos\lab1\lab1\bin\Debug\net8.0\lab1.exe
+C:\Users\HUAWEI\source\repos\lab1\lab1\bin\Debug\net8.0\lab1.deps.json
+C:\Users\HUAWEI\source\repos\lab1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\lab1\lab1\bin\Debug\net8.0\lab1.dll
+C:\Users\HUAWEI\source\repos\lab1\lab1\bin\Debug\net8.0\lab1.pdb
+C:\Users\HUAWEI\source\repos\lab1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\lab1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\lab1\lab1\obj\Debug\net8.0\lab1.dll
+C:\Users\HUAWEI\source\repos\lab1\lab1\obj\Debug\net8.0\refint\lab1.dll
+C:\Users\HUAWEI\source\repos\lab1\lab1\obj\Debug\net8.0\lab1.pdb
+C:\Users\HUAWEI\source\repos\lab1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\lab1\lab1\obj\Debug\net8.0\ref\lab1.dll
